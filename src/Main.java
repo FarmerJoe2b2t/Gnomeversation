@@ -1,4 +1,4 @@
-mport com.github.steveice10.mc.protocol.packet.ingame.client.ClientChatPacket;
+import com.github.steveice10.mc.protocol.packet.ingame.client.ClientChatPacket;
 import com.sasha.eventsys.SimpleListener;
 import com.sasha.reminecraft.Configuration;
 import com.sasha.reminecraft.api.RePlugin;
